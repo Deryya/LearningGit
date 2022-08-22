@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Changes to try to merge two versions");
         System.out.println("Adding another change to try merging");
 
-        System.out.println("this is a ner feature!! ");
+        System.out.println("this is a new feature!! ");
     }
 
 }
